@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tozicingei.hwos.xin/sitemap.xml
